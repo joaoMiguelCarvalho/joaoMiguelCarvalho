@@ -1,5 +1,8 @@
 <h1 align="center">Hi there, I'm João Carvalho 🙋</h1>
-<h3 align="center">Since 2023, I decided to challenge myself, and start lerarning how to code to make a career change.....That was my best decision ever!!!💡....I'm a self-taught junior developer 💻 , looking for new projects!🌎</h3>
+<h3 align="center">Since 2023, I decided to challenge myself and start learning how to code to make a career change.</h3>
+<h3 align="center">That was my best decision ever! 💡</h3>
+<h3 align="center">I'm a self-taught junior developer 💻 looking for new projects! 🌎</h3>
+
 
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
