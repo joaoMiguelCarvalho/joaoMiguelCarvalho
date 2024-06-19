@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm João Carvalho 🙋</h1>
+<h1 align="center">Hi there,</h1>
+<h1 align="center">I'm João Carvalho 🙋</h1>
 <h3 align="center">Since 2023, I decided to challenge myself and start learning how to code to make a career change.</h3>
 <h3 align="center">That was my best decision ever! 💡</h3>
 <h3 align="center">I'm a self-taught junior developer 💻 looking for new projects! 🌎</h3>
